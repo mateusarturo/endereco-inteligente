@@ -1,6 +1,6 @@
 # 🏠 Cadastro de Endereço
 
-Projeto desenvolvido como parte da atividade prática solicitada pelo professor, com o objetivo de criar uma página HTML contendo um formulário de **cadastro de endereço** com **validações de entrada** e **formatação automática de campos** utilizando **JavaScript**.
+Projeto desenvolvido como parte da atividade prática solicitada pelo professor Leonardo Dias, com o objetivo de criar uma página HTML contendo um formulário de **cadastro de endereço** com **validações de entrada** e **formatação automática de campos** utilizando **JavaScript**.
 
 ---
 
