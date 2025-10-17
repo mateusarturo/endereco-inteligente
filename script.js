@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Máscara automática de CEP
   cepInput.addEventListener("input", (e) => {
-    let value = e.target.value.replace(/\D/g, ""); // Remove tudo que não é número
+    let value = e.target.value.replaceAll(/\D/g, ""); // Remove tudo que não é número
     if (value.length > 5) {
       value = value.replace(/(\d{5})(\d{1,3})/, "$1-$2");
     }
